@@ -107,6 +107,7 @@ composer require maba/dependency-injection-extra
 ## Running tests
 
 [![Travis status](https://travis-ci.org/mariusbalcytis/dependency-injection-extra.svg?branch=master)](https://travis-ci.org/mariusbalcytis/dependency-injection-extra)
+[![Coverage Status](https://coveralls.io/repos/mariusbalcytis/dependency-injection-extra/badge.svg?branch=master&service=github)](https://coveralls.io/github/mariusbalcytis/dependency-injection-extra?branch=master)
 
 ```
 composer install
