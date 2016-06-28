@@ -110,6 +110,6 @@ composer require maba/dependency-injection-extra
 [![Coverage Status](https://coveralls.io/repos/mariusbalcytis/dependency-injection-extra/badge.svg?branch=master&service=github)](https://coveralls.io/github/mariusbalcytis/dependency-injection-extra?branch=master)
 
 ```
-composer install
+composer update
 vendor/bin/phpunit
 ```
