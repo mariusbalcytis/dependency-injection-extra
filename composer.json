@@ -21,5 +21,6 @@
             "Maba\\Component\\DependencyInjection\\": "src",
             "Maba\\Component\\DependencyInjection\\Tests\\": "test"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
