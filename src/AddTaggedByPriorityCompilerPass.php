@@ -10,7 +10,6 @@ class AddTaggedByPriorityCompilerPass extends AddTaggedCompilerPass
 
     /**
      * @param string $priorityAttribute
-     * @return $this
      */
     public function setPriorityAttribute($priorityAttribute)
     {
