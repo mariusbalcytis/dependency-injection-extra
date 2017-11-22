@@ -15,6 +15,9 @@ matrix:
   include:
     - php: "5.3"
       dist: precise
+  exclude:
+    - php: "7.2"
+      env: COMPOSER_ARGS="--prefer-lowest"
 
 env:
   global:
