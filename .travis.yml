@@ -9,12 +9,13 @@ php:
     - hhvm
     - 7.0
     - 7.1
+    - 7.2
 
 matrix:
   include:
     - php: "5.3"
       dist: precise
-    - php: "7.2"
+    - php: "7.3"
 
 env:
   global:
