@@ -1,5 +1,9 @@
 # Extra for Symfony Dependency Injection Component
 
+## Deprecated
+
+Please use [paysera/lib-dependency-injection](https://github.com/paysera/lib-dependency-injection) which provides more features than this library.
+
 ## What's that?
 
 Extra features for easier integration with Symfony Dependency Injection component.
